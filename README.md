@@ -1,16 +1,16 @@
 # Customer Churn Prediction System
 
-An end-to-end intelligent web application designed to analyze customer retention metrics and predict business churn risk. This system evaluates financial parameters, complaint frequencies, and customer tenure weights to classify accounts into high-risk or low-risk operational retention profiles.
+An end-to-end intelligent web application designed to analyse customer retention metrics and predict business churn risk. This system evaluates financial parameters, complaint frequencies, and customer tenure weights to classify accounts into high-risk or low-risk operational retention profiles.
 
 ## Live Demo
-🔗 **[Click Here to View the Live Project](PASTE_YOUR_STREAMLIT_APP_URL_HERE)**
+🔗 **[Click Here to View the Live Project](https://customer-churn-predictor-6y7gknxb535vjgadmdqixf.streamlit.app/)**
 
 ---
 
 ## Key Features
 - **Real-time Risk Assessment:** Instant operational classification based on algorithmic risk vectors.
-- **Dynamic Scoring Engine:** Evaluates behavioral matrices including tenure months, service charges, and customer care complaint histories.
-- **Enterprise UI Layout:** Designed using Streamlit for an interactive, modern, and response-driven browser user experience.
+- **Dynamic Scoring Engine:** Evaluates behavioural matrices including tenure months, service charges, and customer care complaint histories.
+- **Enterprise UI Layout:** Designed using Streamlit for an interactive, modern, and responsive browser user experience.
 - **Highly Compatible Architecture:** Implemented with zero-library mathematical fallback models to ensure zero dependency conflicts and maximum system compliance.
 
 ---
